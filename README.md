@@ -16,15 +16,3 @@ Predict if the client will subscribe to a term deposit based on the analysis of 
 
 ### Evaluation Metric
 We will be using AUC - Probability to discriminate between subscriber and non-subscriber.
-
-### Objective of this template notebook
-
-The main objective of this template is to take you through the entire working pipeline that you may follow while approaching a Machine Learning problem.
-
-We will be defining a task to be performed and write the code to solve the task.
-
-__The tasks performed below should serve as a good guide regarding the steps that you should go about a Machine Learning Problem. 
-
-### Word of caution
-
-This template is just an example of a data-science pipeline, every data science problem is unique and there are multiple ways to tackle them. Go through this template and try to leverage the information in this while solving your hackathon problems but you may not be able to use all the functions created here.
